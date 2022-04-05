@@ -1,0 +1,18 @@
+{
+  "id": 17041994,
+  "category": {
+    "id": 1,
+    "name": "dog"
+  },
+  "name": "Duck",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Vacinado"
+    }
+  ],
+  "status": "Solded"
+}
